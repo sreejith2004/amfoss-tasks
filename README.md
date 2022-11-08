@@ -20,7 +20,7 @@
 [Task-14](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-14)|Bandit|Completed
 [Task-15](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-15)|Project Euler|Completed
 ## My views about the tasks
-I got a new learning attitude from the tasks as .
+I got a new learning attitude from the tasks as they were new to me they were very diverse tasks and challenged me to push myself.I learned to use google more and learned more.
 ## My Introduction
 Hii Seniors :pray: I am Sreejith P from Trivandrum Kerala.I came to know about amFOSS from quora since then it fascinated me.
 I feel the club will provide me ample opportunities to develop my skills and knowledge.I am a noob in the field of coding and I only knew 
