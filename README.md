@@ -5,17 +5,17 @@
 --------------|---------------|---------------
 [Task-00](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-00)|Installing Ubuntu|Completed
 [Task-01](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-00)|Staring amFOSS repositories|Completed
-[Task-02](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-02)|Registering nick in IRC Freenode|Completed
+[Task-02](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-02)|Terminal Hunt|Completed
 [Task-03](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-03)|ProgrammingNot Attempted till yet
-[Task-04](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-04)|Debugging Derbies|Not Attempted till yet
-[Task-05](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-05)|Rustic Scraper|Not Attempted till yet
-[Task-06](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-06)|Geddit|Not Attempted till yet
-[Task-07](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-07)|Ubiquitous UI|Not Attempted till yet
-[Task-08](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-08)|Sir Perceval's quest|Not Attempted till yet
-[Task-09](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-09)|Spammer_Spaghetti(Whatsapp Spammer)|Not Attempted till yet
+[Task-04](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-04)|Cine Bot|Not Attempted till yet
+[Task-05](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-05)|Find The Bug|Not Attempted till yet
+[Task-06](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-06)|Flame Game|Not Attempted till yet
+[Task-07](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-07)|Go Wasm|Not Attempted till yet
+[Task-08](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-08)|Internet Explorer|Not Attempted till yet
+[Task-09](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-09)|Krypto Scrapper(Whatsapp Spammer)|Not Attempted till yet
 [Task-10](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-10)|CS50|Not Attempted till yet
-[Task-11](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-11)|Poster Design|Completed
-[Task-12](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-12)|If maths was FUN:P|Done(Output is fine but source limit crossed) 
+[Task-11](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-11)|Figma Ninga|Completed
+[Task-12](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-12)|Bunny Heist 
 [Task-13](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-13)|Circuit Design(Arduino)|Completed
 [Task-14](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-14)|Bandit|Completed
 [Task-15](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-15)|Project Euler|Completed
