@@ -22,7 +22,7 @@
 ## My views about the tasks
 I got a new learning attitude from the tasks as they were new to me they were very diverse tasks and challenged me to push myself.I learned to use google more and learned more.
 ## My Introduction
-Hii Seniors :pray: I am Sreejith P from Trivandrum Kerala.I came to know about amFOSS from quora since then it fascinated me.
+Hii Seniors :pray: I am Sreejith P from Trivandrum Kerala.I came to know about amFOSS from collage since then it fascinated me.
 I feel the club will provide me ample opportunities to develop my skills and knowledge.I am a noob in the field of coding and I only knew 
 Python to an extent but after attempting the tasks I personally find a great improvement in my knowledge this is what I basically want from 
 me that each day when I get up in the morning I find myself improved than the previous day and this is what doing the tasks i have achieved.
