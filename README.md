@@ -6,8 +6,8 @@
 [Task-00]|Installing Ubuntu|Completed
 [Task-01]|Staring amFOSS repositories|Completed
 [Task-02]|Terminal Hunt|Completed
-[Task-03]|ProgrammingNot Attempted till yet
-[Task-04]|Cine Bot|complted
+[Task-03]|Programming|Not Attempted till yet
+[Task-04]|Cine Bot|Completed
 [Task-05]|Find The Bug|Not completed
 [Task-06]|Flame Game|Not completed
 [Task-07]|Go Wasm|Not completed
