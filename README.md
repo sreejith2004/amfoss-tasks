@@ -3,8 +3,8 @@
 **I am Sreejith P from Trivandrum Kerala,fresher at Amrita School of Engineering(EAC 2022)**
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Task-00](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-00)|Installing Ubuntu|Completed
-[Task-01](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-00)|Staring amFOSS repositories|Completed
+[Task-00]|Installing Ubuntu|Completed
+[Task-01]|Staring amFOSS repositories|Completed
 [Task-02](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-02)|Terminal Hunt|Completed
 [Task-03](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-03)|ProgrammingNot Attempted till yet
 [Task-04](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-04)|Cine Bot|complted
