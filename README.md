@@ -15,7 +15,7 @@
 [Task-09](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-09)|Krypto Scrapper(Whatsapp Spammer)|Not completed
 [Task-10](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-10)|CS50|Not Attempted till yet
 [Task-11](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-11)|Figma Ninga|Completed
-[Task-12](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-12)|Bunny Heist 
+[Task-12](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-12)|Bunny Heist |Did not Complete
 [Task-13](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-13)|Circuit Design(Arduino)|Completed
 [Task-14](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-14)|Bandit|Completed
 [Task-15](https://github.com/Akshatji800/amfoss-tasks-demo/tree/master/task-15)|Project Euler|Half Done
